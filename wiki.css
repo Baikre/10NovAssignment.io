@@ -1,0 +1,11 @@
+body{
+    background-color: #fff;
+    color:#242424 ; 
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Inter', sans-serif;
+}
+table, td, th{
+    border: 1px solid ;
+    border-collapse: collapse;
+
+}
